@@ -14,6 +14,9 @@ I also made a getting started tutorial on this module which can be seen from her
 
 https://www.hackster.io/electroboy001/intelligent-offline-voice-recognition-module-is-here-07bed9
 
+![Image](https://github.com/user-attachments/assets/871a50dc-f915-4bb5-9131-30b56a5c662d)
+
+
 https://www.pcbway.com/?from=circuitkicker
 
 Offline Voice recognition module:
